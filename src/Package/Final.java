@@ -3,5 +3,5 @@ package Package;
 /**
  * @author author
  */
-public class Final {
+public final class Final {
 }
